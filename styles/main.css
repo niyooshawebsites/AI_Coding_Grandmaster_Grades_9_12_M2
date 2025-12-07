@@ -244,3 +244,28 @@ ul li:nth-child(even) {
   background-color: red;
   opacity: 0.5;
 }
+
+/* ACP  */
+
+/*
+selector {
+    property: value; 
+}
+
+{} # this is called the declaration block
+property: value; # this is called declaration
+
+casading effect = refers to the algorithm browsers use to determine which styles apply to an element when multiple, conflicting rules are present
+
+*/
+
+/* text styling propertiess */
+
+.textStyling {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-weight: 400;
+  font-variant: normal;
+  color: red;
+  font-style: italic;
+}
